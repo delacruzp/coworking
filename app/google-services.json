@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "222735611289",
+    "firebase_url": "https://coworkingrd.firebaseio.com",
+    "project_id": "project-293476271177396372",
+    "storage_bucket": "project-293476271177396372.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222735611289:android:48560bfe80510db0",
+        "android_client_info": {
+          "package_name": "com.world.delacruzpaulino.coworking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222735611289-eh7npv9abjkj4d5h163ijujct81h7vmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.world.delacruzpaulino.coworking",
+            "certificate_hash": "21B7F17E6006324160FD26474CA9295EFE7EFFB3"
+          }
+        },
+        {
+          "client_id": "222735611289-6gcdglle61ccvufar9spitklcmvipd8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx1XsKmeNyh29J3wmjYQpRanpHc9s9LrE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222735611289-6gcdglle61ccvufar9spitklcmvipd8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
